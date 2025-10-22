@@ -71,6 +71,22 @@
     <tbody>
         <tr>
             <td>1</td>
+            <td> <a href="bubblegeek.cn" target="_blank">https://bubblegeek.cn</a>
+                <br> </td>
+            <td>
+                        🏆
+                        🆓
+                        💪
+                        🧰
+            </td>
+            <td>2025-10-22</td>
+            <td>
+完全免费需要登录，支持 GPT-4o，DeepSeek V3等多个模型。
+</td>
+        </tr>
+        <tr>
+        <tr>
+            <td>1</td>
             <td> <a href="https://heck.ai" target="_blank">https://heck.ai</a>
                 <br> </td>
             <td>
